@@ -1,3 +1,3 @@
 const badFormat = {
- prop: 'singlequotes'
-}
+  prop: "singlequotes",
+};
